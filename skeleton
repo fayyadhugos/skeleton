@@ -1,0 +1,3 @@
+local tool = game:GetObjects("rbxassetid://11961521528")[1]
+tool.Parent = game.Players.LocalPlayer.Backpack
+
